@@ -12,7 +12,11 @@ body
 
 #cabecera
 {
+<<<<<<< HEAD
+    background: #37488b;
+=======
     background:#37488b;
+>>>>>>> 7ea2f14ab1468bacde563fdcabc56e972c3d74e5
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
